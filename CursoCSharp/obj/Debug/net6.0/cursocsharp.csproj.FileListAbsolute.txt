@@ -1,0 +1,15 @@
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\cursocsharp.csproj.AssemblyReference.cache
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\cursocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\cursocsharp.AssemblyInfoInputs.cache
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\cursocsharp.AssemblyInfo.cs
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\cursocsharp.csproj.CoreCompileInputs.cache
+C:\VSProjects\C#\cursocsharp\bin\Debug\net6.0\cursocsharp.exe
+C:\VSProjects\C#\cursocsharp\bin\Debug\net6.0\cursocsharp.deps.json
+C:\VSProjects\C#\cursocsharp\bin\Debug\net6.0\cursocsharp.runtimeconfig.json
+C:\VSProjects\C#\cursocsharp\bin\Debug\net6.0\cursocsharp.dll
+C:\VSProjects\C#\cursocsharp\bin\Debug\net6.0\cursocsharp.pdb
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\cursocsharp.dll
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\refint\cursocsharp.dll
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\cursocsharp.pdb
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\cursocsharp.genruntimeconfig.cache
+C:\VSProjects\C#\cursocsharp\obj\Debug\net6.0\ref\cursocsharp.dll
