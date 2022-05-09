@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSProjects\\C#\\cursocsharp\\cursocsharp.csproj": {}
+    "C:\\VSProjects\\C#\\CursoCSharp\\cursocsharp.csproj": {}
   },
   "projects": {
-    "C:\\VSProjects\\C#\\cursocsharp\\cursocsharp.csproj": {
+    "C:\\VSProjects\\C#\\CursoCSharp\\cursocsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSProjects\\C#\\cursocsharp\\cursocsharp.csproj",
+        "projectUniqueName": "C:\\VSProjects\\C#\\CursoCSharp\\cursocsharp.csproj",
         "projectName": "cursocsharp",
-        "projectPath": "C:\\VSProjects\\C#\\cursocsharp\\cursocsharp.csproj",
+        "projectPath": "C:\\VSProjects\\C#\\CursoCSharp\\cursocsharp.csproj",
         "packagesPath": "C:\\Users\\Maycon\\.nuget\\packages\\",
-        "outputPath": "C:\\VSProjects\\C#\\cursocsharp\\obj\\",
+        "outputPath": "C:\\VSProjects\\C#\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maycon\\AppData\\Roaming\\NuGet\\NuGet.Config"

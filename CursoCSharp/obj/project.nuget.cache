@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9ibtq1rPrr/A89F/DZNSSyFATe90nUJEGTMYXu9Aod6fsXiBT59yC5jQLtQGPPLMr57ZqHd7/j8FPhN5ArXiw==",
+  "dgSpecHash": "SAk0VRypDPNJBibxEko2T0NUh133xBdx6eUqdeyGwwRlkDzatXH2fa2xvfkE5DBKdKop9WBmBtKTdxInev6oTw==",
   "success": true,
-  "projectFilePath": "C:\\VSProjects\\C#\\cursocsharp\\cursocsharp.csproj",
+  "projectFilePath": "C:\\VSProjects\\C#\\CursoCSharp\\cursocsharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

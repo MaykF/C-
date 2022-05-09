@@ -1,5 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+class Program
+{
+    static void Main(){
+        string[] names = { "Matheus", "Breno"};
+    
+        if (string.Equals(names[0], "Matheus", StringComparison.OrdinalIgnoreCase)){
+            Console.WriteLine("Troll");
+        }
+
+        foreach(string name in names) {
+            Console.WriteLine(name);
+        }
+    }
+}
+
+/*
 string name;
 int year, age;
 
@@ -16,3 +32,4 @@ year = int.Parse(Console.ReadLine());
 age = 2022 - year;
 
 Console.WriteLine($"Você tem {age} anos.");
+*/
